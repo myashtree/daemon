@@ -1,0 +1,6 @@
+Dear miner,
+
+%MESSAGE%
+
+Thank you,
+Kind regards, Admin at %POOL_HOST%
